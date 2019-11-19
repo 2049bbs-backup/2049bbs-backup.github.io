@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 站务</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs-backup.github.io/feed/13.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2019-11-19T10:02:54+08:00</updated>
+
+	<id>https://2049bbs-backup.github.io/feed/13.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>专门开一帖讨论2049bbs的发展</title>
+		<id>https://2049bbs-backup.github.io/t/1815</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1815" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1815.html?env=dev" />
+		<published>2019-11-16T03:30:00+08:00</published>
+		<updated>2019-11-19T09:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;2049bbs原本是一个网络支点，靠低活跃度排除宣传帐号，保持高信噪比，实际上成为了高效能人士的汇集地。现在考虑用多层次“事业群”的发展概念来保存原有的价值，开辟新的功能。关键是分析需求，然后找到最佳的现成工具去满足已有需求。能用现成的代码就别自己开发，尤其是站长自学go来改变2049bbs这种方式不可取。&lt;/p&gt;
+
+&lt;p&gt;先前的讨论分散在不同帖子内，现统一汇集到此。充分论证。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>节点订阅功能已上线</title>
+		<id>https://2049bbs-backup.github.io/t/1860</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1860" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1860.html?env=dev" />
+		<published>2019-11-18T19:00:00+08:00</published>
+		<updated>2019-11-19T03:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;https://2049bbs.xyz/feed/节点id&lt;/code&gt;，如&lt;a href=&quot;https://2049bbs.xyz/feed/5&quot;&gt;https://2049bbs.xyz/feed/5&lt;/a&gt;订阅分享发现节点。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>默认头像变更为从二十个指定用户中随机产生</title>
+		<id>https://2049bbs-backup.github.io/t/1859</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1859" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1859.html?env=dev" />
+		<published>2019-11-18T18:00:00+08:00</published>
+		<updated>2019-11-18T23:30:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>2049bbs 习惯法</title>
+		<id>https://2049bbs-backup.github.io/t/1564</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1564" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1564.html?env=dev" />
+		<published>2019-10-22T00:00:00+08:00</published>
+		<updated>2019-11-18T16:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;ul&gt;
+  &lt;li&gt;【RFC-001】禁止阴谋论 相关讨论：&lt;a href=&quot;https://2049bbs.xyz/t/1516&quot;&gt;https://2049bbs.xyz/t/1516&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;【RFC-002】时政新闻类发帖需要附上来源链接 相关讨论：&lt;a href=&quot;https://2049bbs.xyz/t/1538&quot;&gt;https://2049bbs.xyz/...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>本人建议组建2049官方电报群</title>
+		<id>https://2049bbs-backup.github.io/t/1848</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1848" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1848.html?env=dev" />
+		<published>2019-11-18T06:30:00+08:00</published>
+		<updated>2019-11-18T11:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如果本站站长和资深用户认为我的建议可行，可以将我群直接转变为官方群。欢迎各位加入，&lt;/p&gt;
+
+&lt;p&gt;本人的群：t.me/tennjinn&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>2049有没有管理员？谁来执行封禁？</title>
+		<id>https://2049bbs-backup.github.io/t/1841</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1841" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1841.html?env=dev" />
+		<published>2019-11-17T23:00:00+08:00</published>
+		<updated>2019-11-17T23:00:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>已经实现自定义忽略用户的功能</title>
+		<id>https://2049bbs-backup.github.io/t/1688</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1688" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1688.html?env=dev" />
+		<published>2019-11-05T00:00:00+08:00</published>
+		<updated>2019-11-17T07:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在个人设置页面，「忽略用户」一项中，填写用户的&lt;strong&gt;数字id&lt;/strong&gt;，比如@榴梿 是1号用户，就填写1.多个用户使用&lt;strong&gt;英文逗号&lt;/strong&gt;隔开。比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;1,2,3&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;设置之后，登录后，个人的首页将不会出现这些用户的发帖，每个帖子下也不会看到这些用户的回复。...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>这个分类真心看不懂，什么情况？</title>
+		<id>https://2049bbs-backup.github.io/t/1792</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1792" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1792.html?env=dev" />
+		<published>2019-11-14T00:00:00+08:00</published>
+		<updated>2019-11-15T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;好像帖子也少了不少。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>正式支持 markdown 了</title>
+		<id>https://2049bbs-backup.github.io/t/1595</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1595" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1595.html?env=dev" />
+		<published>2019-10-26T00:00:00+08:00</published>
+		<updated>2019-11-15T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;markdown 还是要学习一个：&lt;a href=&quot;https://www.jianshu.com/p/191d1e21f7ed&quot;&gt;https://www.jianshu.com/p/191d1e21f7ed&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;这里是二级标题两个&quot;&gt;&lt;a href=&quot;#%E8%BF%99%E9%87%8C%E6%98%AF%E4%BA%8C%E7%BA%A7%E6%A0...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>为何新用户改了头像却不生效？</title>
+		<id>https://2049bbs-backup.github.io/t/1771</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1771" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1771.html?env=dev" />
+		<published>2019-11-13T00:00:00+08:00</published>
+		<updated>2019-11-13T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在设置里是新头像但站内其它地方仍是系统预置的头像？&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>2049bbs相较于新品葱，安全性和后台管理有什么不同？</title>
+		<id>https://2049bbs-backup.github.io/t/1747</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1747" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1747.html?env=dev" />
+		<published>2019-11-11T00:00:00+08:00</published>
+		<updated>2019-11-13T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;2049从安全性上能够比新品葱更值得信任吗？ @&lt;a href=&quot;/member/%E5%B0%8F%E4%BA%8C&quot;&gt;小二&lt;/a&gt; @&lt;a href=&quot;/member/%E6%A6%B4%E6%A2%BF&quot;&gt;榴梿&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>为什么不开放自主删帖呢？</title>
+		<id>https://2049bbs-backup.github.io/t/1366</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1366" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1366.html?env=dev" />
+		<published>2019-07-30T22:55:00+08:00</published>
+		<updated>2019-11-13T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;为什么不开放自主删帖呢？&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>水帖不能跟帖</title>
+		<id>https://2049bbs-backup.github.io/t/50</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/50" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/50.html?env=dev" />
+		<published>2018-01-15T13:26:00+08:00</published>
+		<updated>2019-11-13T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;由于帖子是按照最新回复排序，为了鼓励优质内容，防止论坛被水帖淹没，被移动到水帖的节点不能跟帖。&lt;/p&gt;
+
+&lt;p&gt;如果对自己的帖子被移动到水贴节点有异议，请在此帖下面申诉。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>2049有哪些高仿用户？</title>
+		<id>https://2049bbs-backup.github.io/t/1557</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1557" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1557.html?env=dev" />
+		<published>2019-10-22T00:00:00+08:00</published>
+		<updated>2019-11-11T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;刚刚空降时，就被站长授予了管理权限，至少试图确认一下，2049的懦夫斯基和新品葱的懦夫斯基是同一个人啊，万一我是高仿用户，不怀好意怎么办。 在此敲打站长善良的脑袋，呼吁大家提升网络安全意识，因此开这个帖来请大家自愿报道，分辨哪些用户是高仿，哪些是小号，或曰八卦。 比如@tony231，隔壁新品葱的tony231已经明确表示，&lt;strong&gt;是&lt;/strong&gt;同一个人。（之前抽风，写成...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>已实现首页节点过滤功能</title>
+		<id>https://2049bbs-backup.github.io/t/1677</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1677" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1677.html?env=dev" />
+		<published>2019-11-04T00:00:00+08:00</published>
+		<updated>2019-11-05T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;登录用户可以在设置页面，设置自己的首页不想看到的节点。设置方式是节点id，用&lt;strong&gt;英文逗号&lt;/strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;,&lt;/code&gt;隔开。&lt;/p&gt;
+
+&lt;p&gt;如&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;1,2,9&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;这样，你的首页就不会出现「问答」、「时政...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>本站也被姨粉占领了？为什么批姨帖转移水区了？</title>
+		<id>https://2049bbs-backup.github.io/t/1675</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1675" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1675.html?env=dev" />
+		<published>2019-11-04T00:00:00+08:00</published>
+		<updated>2019-11-05T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://2049bbs.xyz/t/1480&quot;&gt;https://2049bbs.xyz/t/1480&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这么好的帖就进水了，还看不到是谁操作的，难道本站也被姨葱渗透了？&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>Bug report</title>
+		<id>https://2049bbs-backup.github.io/t/1657</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1657" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1657.html?env=dev" />
+		<published>2019-11-03T00:00:00+08:00</published>
+		<updated>2019-11-04T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;@&lt;a href=&quot;/member/%E6%A6%B4%E6%A2%BF&quot;&gt;榴梿&lt;/a&gt; 提示总有一条新提醒（黄字“1条提醒”），然而点开什么没有，消不掉了~~&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>2049BBS 能不能考虑有分区？</title>
+		<id>https://2049bbs-backup.github.io/t/1620</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1620" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1620.html?env=dev" />
+		<published>2019-10-29T00:00:00+08:00</published>
+		<updated>2019-11-04T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我最早因为 IPFS 来到 2049BBS，后来想分享一个很棒的 Telegram Bot 想分享一下，于是注册了账号。很喜欢泡在 2049，但是感觉最近论坛里政治讨论内容越来越多，如果偶尔我想查阅科技相关的内容，过滤掉政治相关的帖子，一个个单机相关的标签着实有点麻烦，不知道有其他办法可以实现吗？&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>【RFC-003】不得诉诸人身</title>
+		<id>https://2049bbs-backup.github.io/t/1628</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1628" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1628.html?env=dev" />
+		<published>2019-10-30T00:00:00+08:00</published>
+		<updated>2019-10-30T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在任何情形下，只能反驳对方观点，而不能诉诸人身。比如不可以说「你是个白痴」，只能说「你的观点太荒谬」。&lt;/p&gt;
+
+&lt;p&gt;前两次警告，第三次可以直接封禁。具体判别细则，可以补充和修订。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>时政新闻类发帖需要附上来源链接</title>
+		<id>https://2049bbs-backup.github.io/t/1538</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1538" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1538.html?env=dev" />
+		<published>2019-10-20T18:20:00+08:00</published>
+		<updated>2019-10-29T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;两次警告后保留封禁权力。&lt;/p&gt;
+
+&lt;p&gt;如果未补充来源链接，管理员可以直接移动到水区。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+
+</feed>

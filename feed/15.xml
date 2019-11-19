@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | Geek</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs-backup.github.io/feed/15.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2019-11-19T10:02:54+08:00</updated>
+
+	<id>https://2049bbs-backup.github.io/feed/15.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>Web年鉴（web almanac）报告</title>
+		<id>https://2049bbs-backup.github.io/t/1819</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1819" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1819.html?env=dev" />
+		<published>2019-11-16T12:00:00+08:00</published>
+		<updated>2019-11-16T12:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;Web年鉴是由 HTTP Archive 发起的项目。&lt;a href=&quot;https://httparchive.org/&quot;&gt;HTTP Archive&lt;/a&gt; 于 2010 年由 &lt;a href=&quot;http://stevesouders.com/&quot;&gt;Steve Souders&lt;/a&gt; 创建，其任务是追踪分析web是如何构建的。&lt;/p&gt;
+
+&lt;p&gt;2019.11 发布第一版，分析了来自 Ch...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Give Firefox A Chance For A Faster, Calmer And Distraction-Free Internet</title>
+		<id>https://2049bbs-backup.github.io/t/1734</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1734" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1734.html?env=dev" />
+		<published>2019-11-11T00:00:00+08:00</published>
+		<updated>2019-11-12T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://marko.fyi/firefox/&quot;&gt;https://marko.fyi/firefox/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;firefox 浏览器是开源的、非营利组织开发的一款浏览器。关注用户隐私，默认拦截第三方跟踪脚本和cookie，这与google 的 chrome 浏览器跟踪一切的邪恶行径截然相反。&lt;/p&gt;
+
+&lt;p&gt;作者以 Wired.com 网站为例...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Three Big Things: The Most Important Forces Shaping the World</title>
+		<id>https://2049bbs-backup.github.io/t/1708</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1708" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1708.html?env=dev" />
+		<published>2019-11-08T00:00:00+08:00</published>
+		<updated>2019-11-10T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/&quot;&gt;https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-s...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>solidot重建企划</title>
+		<id>https://2049bbs-backup.github.io/t/1434</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1434" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1434.html?env=dev" />
+		<published>2019-09-23T09:44:00+08:00</published>
+		<updated>2019-10-27T00:00:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Collapse OS: Bootstrap post-collapse technology</title>
+		<id>https://2049bbs-backup.github.io/t/1580</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1580" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1580.html?env=dev" />
+		<published>2019-10-25T00:00:00+08:00</published>
+		<updated>2019-10-25T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://collapseos.org/&quot;&gt;https://collapseos.org/&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>&quot;Quantum Supremacy&quot; FQA</title>
+		<id>https://2049bbs-backup.github.io/t/1441</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1441" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1441.html?env=dev" />
+		<published>2019-09-25T09:26:00+08:00</published>
+		<updated>2019-09-25T09:32:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.scottaaronson.com/blog/?p=4317&quot;&gt;https://www.scottaaronson.com/blog/?p=4317&lt;/a&gt; too many media blow-ups in post-quantum encryption these days&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;文章的内容是量子计...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>用rust写的reddit超轻型替代品</title>
+		<id>https://2049bbs-backup.github.io/t/1139</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1139" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1139.html?env=dev" />
+		<published>2019-04-18T09:44:00+08:00</published>
+		<updated>2019-05-09T21:23:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/dessalines/lemmy&quot;&gt;https://github.com/dessalines/lemmy&lt;/a&gt; 不过看起来更像 hacker news&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>互联网轶事——ie6是如何被杀死的</title>
+		<id>https://2049bbs-backup.github.io/t/1157</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1157" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1157.html?env=dev" />
+		<published>2019-05-02T16:16:00+08:00</published>
+		<updated>2019-05-02T21:12:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6&quot;&gt;http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;YouTube 在被 Google 收购后，那些老员工，被称为 OldTuber，大概享有一些特权。这些码农发现每次都额...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Pi-hole 屏蔽广告</title>
+		<id>https://2049bbs-backup.github.io/t/1131</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1131" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1131.html?env=dev" />
+		<published>2019-04-12T20:50:00+08:00</published>
+		<updated>2019-04-12T20:50:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;项目库：&lt;a href=&quot;https://github.com/pi-hole/pi-hole&quot;&gt;https://github.com/pi-hole/pi-hole&lt;/a&gt; 官网：&lt;a href=&quot;https://pi-hole.net/&quot;&gt;https://pi-hole.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在 Linux 设备/服务端，利用 DNS 屏蔽广告/不想看到的网站，不用安装...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>论坛没有开放 telnet 访问？</title>
+		<id>https://2049bbs-backup.github.io/t/1019</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1019" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1019.html?env=dev" />
+		<published>2019-03-03T12:50:00+08:00</published>
+		<updated>2019-03-06T20:38:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;RT&lt;/p&gt;
+
+&lt;p&gt;只是经常在图书馆等公共场所，看一些比较敏感的东西不太想用浏览器打开页面浏览论坛，所以想直接终端 telnet 打开来看。&lt;/p&gt;
+
+&lt;p&gt;如果有 telnet 通道的话，还请管理员提供下访问方式。如果没有不想开的话，有什么原因吗？@Ciao&lt;/p&gt;
+
+&lt;p&gt;谢谢！&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>高考数据可视化</title>
+		<id>https://2049bbs-backup.github.io/t/596</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/596" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/596.html?env=dev" />
+		<published>2018-06-25T06:34:00+08:00</published>
+		<updated>2018-06-25T06:34:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;使用 微软PowerBI 制作的数据可视化：&lt;a href=&quot;https://t.co/Mrqqh5Agsn&quot;&gt;https://t.co/Mrqqh5Agsn&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>面对史上最严数据保护法案，「重灾区」在何处？</title>
+		<id>https://2049bbs-backup.github.io/t/548</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/548" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/548.html?env=dev" />
+		<published>2018-06-01T22:46:00+08:00</published>
+		<updated>2018-06-06T19:17:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;©本文由“四月”发布于“极客公园”，原文链接—— &lt;a href=&quot;http://www.geekpark.net/news/229605&quot;&gt;http://www.geekpark.net/news/229605&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;【原标题】：面对史上最严数据保护法案，「重灾区」在何处？中国科技企业又该如何应对？ &lt;a href=&quot;http://imgslim.geekpark....
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>飞艇还能复兴么？</title>
+		<id>https://2049bbs-backup.github.io/t/387</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/387" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/387.html?env=dev" />
+		<published>2018-03-31T22:43:00+08:00</published>
+		<updated>2018-05-09T00:27:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;唯一听的一个英文音频节目 99% invisiable，最新一期的话题是飞艇（&lt;a href=&quot;https://99percentinvisible.org/episode/airships-future-never/&quot;&gt;https://99percentinvisible.org/episode/airships-future-never/&lt;/a&gt; ），我觉得很有意思，那个时候居然用...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Go community 中国版</title>
+		<id>https://2049bbs-backup.github.io/t/87</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/87" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/87.html?env=dev" />
+		<published>2018-01-23T08:47:00+08:00</published>
+		<updated>2018-01-23T09:17:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;Go 官方发布 中国版 Go community ： &lt;a href=&quot;https://blog.golang.org/hello-china&quot;&gt;https://blog.golang.org/hello-china&lt;/a&gt; &lt;a href=&quot;https://golang.google.cn&quot;&gt;https://golang.google.cn&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Nintendo Labo 看起来太酷了</title>
+		<id>https://2049bbs-backup.github.io/t/69</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/69" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/69.html?env=dev" />
+		<published>2018-01-18T10:59:00+08:00</published>
+		<updated>2018-01-18T14:56:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=P3Bd3HUMkyU&quot;&gt;https://www.youtube.com/watch?v=P3Bd3HUMkyU&lt;/a&gt; &lt;a href=&quot;https://v.youku.com/v_show/id_XMzMyODI3MDA2NA==.html&quot;&gt;https://v.youku.com/v_show/id...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+
+</feed>

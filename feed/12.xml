@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 分享创造</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs-backup.github.io/feed/12.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2019-11-19T10:02:54+08:00</updated>
+
+	<id>https://2049bbs-backup.github.io/feed/12.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>跨平台匿名互联网社区架构（RFC）</title>
+		<id>https://2049bbs-backup.github.io/t/1715</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1715" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1715.html?env=dev" />
+		<published>2019-11-09T00:00:00+08:00</published>
+		<updated>2019-11-18T08:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;这个社区的信息流如下图所示，它包含高度私人化的 &lt;strong&gt;&lt;em&gt;信息获取环节&lt;/em&gt;&lt;/strong&gt; 和一个 跨平台的 &lt;strong&gt;&lt;em&gt;社区互动环节&lt;/em&gt;&lt;/strong&gt; 。&lt;/p&gt;
+
+&lt;p&gt;其中信息获取环节的订阅内容只有你一个人知道，而且跟互动平台脱钩，这样信息污染者无法知道你的主要信息来源，从而避免被舆论诱导。避免依赖品葱、微信、贴吧等单一信息获取和交互平...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>使用RSS提升你的閱讀效率小技巧</title>
+		<id>https://2049bbs-backup.github.io/t/1834</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1834" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1834.html?env=dev" />
+		<published>2019-11-17T14:00:00+08:00</published>
+		<updated>2019-11-18T06:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://matters.news/@kp2020/%E4%BD%BF%E7%94%A8rss%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84%E9%96%B1%E8%AE%80%E6%95%88%E7%8E%87%E5%B0%8F%E6%8A%80%E5%B7%A7-zdpuB1gGUFJRKMDkjqadYLbHp5QHF6VBTFz...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>台湾社会科学博客RSS集合</title>
+		<id>https://2049bbs-backup.github.io/t/1829</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1829" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1829.html?env=dev" />
+		<published>2019-11-17T05:00:00+08:00</published>
+		<updated>2019-11-17T16:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;h2 id=&quot;博客构成&quot;&gt;&lt;a href=&quot;#%E5%8D%9A%E5%AE%A2%E6%9E%84%E6%88%90&quot;&gt;&lt;/a&gt;博客构成&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/B5dBfVU.png&quot; alt=&quot;博客来源&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;每个博客的产出率约每周1篇&lt;/p&gt;
+
+&lt;h2 id=&quot;用法&quot;&gt;&lt;a href=&quot;#%E7%94%A8%E...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>小项目：中国大事件时间线</title>
+		<id>https://2049bbs-backup.github.io/t/1282</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1282" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1282.html?env=dev" />
+		<published>2019-06-15T13:51:00+08:00</published>
+		<updated>2019-10-28T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中国大事件时间线，用可视化的数据展现中共互联网引导与管制全景图。 &lt;a href=&quot;https://chinatimeline.github.io/&quot;&gt;https://chinatimeline.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;截图 &lt;a href=&quot;https://i.imgur.com/KZpw5By.png&quot;&gt;https://i.imgur.com/KZpw5By....
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>解决 SNI RST 的新方式</title>
+		<id>https://2049bbs-backup.github.io/t/1360</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1360" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1360.html?env=dev" />
+		<published>2019-07-28T13:05:00+08:00</published>
+		<updated>2019-10-27T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/Xmader/revolter-firefox&quot;&gt;https://github.com/Xmader/revolter-firefox&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>2049BBS 的墙内镜像站</title>
+		<id>https://2049bbs-backup.github.io/t/1420</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1420" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1420.html?env=dev" />
+		<published>2019-09-10T12:10:00+08:00</published>
+		<updated>2019-10-25T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/2049bbs/2049bbs.github.io&quot;&gt;https://github.com/2049bbs/2049bbs.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2049bbs.github.io&quot;&gt;https://2049bbs.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在每天中午12点...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>如何解决香港现在的问题</title>
+		<id>https://2049bbs-backup.github.io/t/1439</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1439" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1439.html?env=dev" />
+		<published>2019-09-24T22:22:00+08:00</published>
+		<updated>2019-10-03T19:53:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如果香港示威者们都读过《权民一体论》这本书，并按照书中所说的实行的话，那么他们所追求的自由、民主也可以很快得到。 图书下载链接 &lt;a href=&quot;https://2049bbs.xyz/t/130&quot;&gt;https://2049bbs.xyz/t/130&lt;/a&gt; &lt;a href=&quot;https://pan.lanzou.com/b187776/&quot;&gt;https://pan.lanzou.com...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>突然间想到一个不用双虚拟机＋tor也能隐藏自己的办法</title>
+		<id>https://2049bbs-backup.github.io/t/957</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/957" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/957.html?env=dev" />
+		<published>2019-02-11T19:59:00+08:00</published>
+		<updated>2019-09-24T01:23:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;首先说明，如果你已经会用双虚拟机，那请不要看了，这个方法是给小白看的，简单点说就是把你用的双虚拟机变成了实体机，并且方法简单，傻瓜式操作，不懂用双虚拟机的小白也能做到。 看了编程随想的博客，觉得这个人很牛，连续十年不被抓，可以说十分牛掰了，不过普通人应该用不着他这种那么隐蔽的方式吧，当然很多人也不会双虚拟机，而且很多人都是手机翻墙上网的，虽然手机不安全（编程随想的博客已说明&lt;a hre...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>[求帮散布] 中国假新闻汇总 github 打假 ChinaFakeNews</title>
+		<id>https://2049bbs-backup.github.io/t/1425</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1425" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1425.html?env=dev" />
+		<published>2019-09-13T11:50:00+08:00</published>
+		<updated>2019-09-16T02:33:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中国假新闻汇总 github 项目 ChinaFakeNews&lt;/p&gt;
+
+&lt;p&gt;地址是 (最好用新 email, 新 github 号)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/nuclearfake9/ChinaFakeNews&quot;&gt;https://github.com/nuclearfake9/ChinaFakeNews&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;twi...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>推荐编程随想的博客——墙内镜像版</title>
+		<id>https://2049bbs-backup.github.io/t/872</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/872" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/872.html?env=dev" />
+		<published>2018-12-30T18:44:00+08:00</published>
+		<updated>2019-09-10T12:23:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;原版：&lt;a href=&quot;https://program-think.blogspot.com/&quot;&gt;https://program-think.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;墙内镜像版：&lt;a href=&quot;https://progr.tk/&quot;&gt;https://progr.tk/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;编程随想收藏的电子书：&lt;a href=&quot;https://githu...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>同时保存到archive.is 和 Internet Archive 的 web 服务</title>
+		<id>https://2049bbs-backup.github.io/t/1264</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1264" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1264.html?env=dev" />
+		<published>2019-06-08T12:16:00+08:00</published>
+		<updated>2019-08-08T00:19:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;http://206.189.252.32:12345/&quot;&gt;http://206.189.252.32:12345/&lt;/a&gt; 可以同时提交到多个存档服务中，并且不会保存用户提交的任何记录。&lt;/p&gt;
+
+&lt;p&gt;来源于 &lt;a href=&quot;https://github.com/oduwsdl/archivenow&quot;&gt;https://github.com/oduwsdl/arc...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>致为香港同胞发声的勇士们</title>
+		<id>https://2049bbs-backup.github.io/t/1270</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1270" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1270.html?env=dev" />
+		<published>2019-06-12T20:58:00+08:00</published>
+		<updated>2019-07-02T20:05:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;同胞们：&lt;/p&gt;
+
+&lt;p&gt;香港同胞的这次抗争是一场壮举，是一场正义与邪恶，光明与黑暗，自由与专制，文明与野蛮的伟大斗争。&lt;/p&gt;
+
+&lt;p&gt;我们能做的是尽最大可能声援他们，我将分为墙外和墙内两方面论述。&lt;/p&gt;
+
+&lt;p&gt;一、墙外（各位请尽可能转发消息）&lt;/p&gt;
+
+&lt;p&gt;关注Twitter：&lt;a href=&quot;https://twitter.com/Hk60740379Hk&quot;&gt;https:/...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>一张图告诉你为什么反送中</title>
+		<id>https://2049bbs-backup.github.io/t/1303</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1303" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1303.html?env=dev" />
+		<published>2019-06-18T12:05:00+08:00</published>
+		<updated>2019-06-18T12:05:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;香港黄之锋出狱和因鸿茅药酒拘留出来的谭秦东释放后的差异 &lt;a href=&quot;https://pbs.twimg.com/media/D9QCzbrUwAAbGw_.jpg&quot;&gt;https://pbs.twimg.com/media/D9QCzbrUwAAbGw_.jpg&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>推荐一个八卦党史的频道</title>
+		<id>https://2049bbs-backup.github.io/t/1291</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1291" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1291.html?env=dev" />
+		<published>2019-06-17T19:33:00+08:00</published>
+		<updated>2019-06-17T19:33:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCGtvPQxpuRrXeryEWxQkAkA&quot;&gt;https://www.youtube.com/channel/UCGtvPQxpuRrXeryEWxQkAkA&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>要求清华大学立即恢复许章润教授工作的公开信</title>
+		<id>https://2049bbs-backup.github.io/t/1104</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1104" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1104.html?env=dev" />
+		<published>2019-04-02T10:02:00+08:00</published>
+		<updated>2019-04-07T16:34:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;公开信 &lt;a href=&quot;https://xu291.github.io/&quot;&gt;https://xu291.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;许章润非官方言论集 &lt;a href=&quot;https://xuzhangrun.gitlab.io/&quot;&gt;https://xuzhangrun.gitlab.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请愿书 &lt;a href=&quot;https://www.c...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>许章润2018、19全部文章（系列重要讲话精神）荣登区块链！</title>
+		<id>https://2049bbs-backup.github.io/t/1110</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1110" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1110.html?env=dev" />
+		<published>2019-04-07T06:15:00+08:00</published>
+		<updated>2019-04-07T07:42:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;习近平，你能干掉许教授，你能干掉区块链吗？除非把世界上所有电脑都关到新疆集中营！ 许教授2018、2019的所有文章都被我写在区块链上了！包括著名汉学家Geremie R. Barmé的英文翻译，也写上去了！千古流芳！看你共匪怎么删，删，删！ &lt;a href=&quot;https://github.com/FreeXZR/Free-Xu-Zhangrun/blob/master/article...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>996.icu和声援许教授的运动应联合起来！</title>
+		<id>https://2049bbs-backup.github.io/t/1103</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1103" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1103.html?env=dev" />
+		<published>2019-04-01T19:09:00+08:00</published>
+		<updated>2019-04-01T19:09:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;两者看似不同，但核心是一致的，那就是要求宪法第三十五条得到捍卫！&lt;/p&gt;
+
+&lt;p&gt;「第三十五条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。 」&lt;/p&gt;
+
+&lt;p&gt;我们必须建立独立的工会，独立的媒体，才能保障结社自由和言论自由，反之亦然。&lt;/p&gt;
+
+&lt;p&gt;一个没有权力制约的政府是无道的，个人自由与个人权利一再地被剥夺。而民主是争取来的，不是恩赐的。&lt;/p&gt;
+
+&lt;p&gt;五四...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>Wechatscope 的存档与可视化项目</title>
+		<id>https://2049bbs-backup.github.io/t/610</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/610" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/610.html?env=dev" />
+		<published>2018-07-18T00:45:00+08:00</published>
+		<updated>2019-02-16T22:34:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/Terminus2049/Wechatscope&quot;&gt;https://github.com/Terminus2049/Wechatscope&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;对 Wechatscope(&lt;a href=&quot;http://wechatscope.jmsc.hku.hk/&quot;&gt;http://wechatscope.jmsc.hku....
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>都散了吧，回去好好赚钱养家，莫谈国事！</title>
+		<id>https://2049bbs-backup.github.io/t/897</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/897" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/897.html?env=dev" />
+		<published>2019-01-09T12:55:00+08:00</published>
+		<updated>2019-01-17T22:27:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中国政治真的没什么好谈的，谈了风险还极其大，相信对中国政治有见解的你们都不会太差，和很多人还蒙在鼓里你们已经是优秀的人了。 诸君听我一句劝，别在关注这些事上浪费时间了，有这时间谈政治还不如多赚点钱，争取早日移民。 中国政治真没什么可谈的，看看现在的政治论坛，一提到政治就是派系斗争，各派别怎样争权，各种关于高层的八卦，各种宫斗争权。 反正你也改变不了中国，还不如抓紧时间改变自己，争取在国...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>写在2019年年初，通货紧缩之前</title>
+		<id>https://2049bbs-backup.github.io/t/891</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/891" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/891.html?env=dev" />
+		<published>2019-01-06T16:34:00+08:00</published>
+		<updated>2019-01-06T16:34:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;站在历史的十字路口上，我们都不能预测到未来的路，我们充满了期待又充满了迷茫，很多年后，当我们回过头看时，会发展过去的几年风云涌起、变换莫测，而多数人在变化之前都以为那只是平常的一天，只是漫长的人生之路上的轻描淡写的一笔。 毫无疑问，对于不关心政治的人来说，修不修宪没什么关系，这毫无意义，他们也丝毫不关心这一点。更不知道这意味着什么。 更何况，在当局的封锁下，他们甚至不知道这件事。 但是...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+
+</feed>

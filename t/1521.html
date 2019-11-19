@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+
+
+
+
+
+
+
+
+
+<head>
+  <title>2049bbs 已经修改了程序，不再记录ip - 站务 - 2049BBS</title>
+
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+  <link rel="shortcut icon" href=".././static/favicon.ico" type="image/x-icon">
+
+  <link rel="canonical" href="https://2049bbs-backup.github.io" />
+
+  <link href=".././feed.xml" rel="alternate" title="2049BBS - ATOM Feed" type="application/atom+xml">
+
+  <link rel="stylesheet" href=".././static/default/style.css">
+  <link rel="stylesheet" href=".././static/css/jquery.toast.css">
+  <link rel="stylesheet" href=".././static/css/uploadifive.css">
+  <link rel="stylesheet" href=".././static/highligt/sunburst.min.css">
+
+  <script src=".././static/js/jquery.min.js"></script>
+  <script src=".././static/js/jquery.toast.js"></script>
+  <script src=".././static/js/md5.min.js"></script>
+  <script src=".././static/js/jquery.uploadifive.min.js"></script>
+  <script src=".././static/highligt/highlight.pack.js"></script>
+
+  <script>hljs.initHighlightingOnLoad();</script>
+  <script>
+    $(function () {
+      $("#go-to-top").click(function () {
+        $("html, body").animate({ "scrollTop": 0 }, 400);
+        return false;
+      });
+      $(window).scroll(function () {
+        var top = $(document).scrollTop();
+        var g = $("#go-to-top");
+        if (top > 300 && g.is(":hidden")) {
+          g.fadeIn();
+        } else if (top < 300 && g.is(":visible")) {
+          g.fadeOut();
+        }
+      });
+    })
+  </script>
+</head>
+
+
+<body>
+
+    <div class="header-wrap">
+    <div class="header">
+        <div class="logo">
+            <a href=".././index.html" name="top">
+                <img src=".././static/img/logo.png" height="45">
+            </a>
+        </div>
+
+        <div class="scbox">
+            <form role="search" method="get" id="searchform" action="https://github.com/2049bbs-backup/2049bbs-backup.github.io/search" target="_blank">
+                <input type="text" maxlength="30" placeholder="站内搜索" name="q" id="q">
+            </form>
+        </div>
+
+        <div class="c"></div>
+    </div>
+</div>
+
+
+    <div class="main-wrap">
+        <div class="main">
+
+            <div class="main-content">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nav-title">
+    <div class="float-left fs14">
+        <a href=".././index.html">2049BBS</a> » <a href=".././n/13.html">站务</a> (47)
+    </div>
+
+    <div class="c"></div>
+</div>
+
+<div class="main-box">
+    <div class="topic-title">
+
+        <div class="topic-title-main float-left">
+            <h1>2049bbs 已经修改了程序，不再记录ip</h1>
+
+            <div class="topic-title-date">
+                By <a href=".././member/1.html">小二</a>
+                at 2019-10-18
+            </div>
+        </div>
+
+        <div class="detail-avatar">
+            <a href=".././member/1.html">
+                <img src="data:image/jpeg;base64,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" alt="小二">
+            </a>
+        </div>
+
+        <div class="c"></div>
+    </div>
+
+    <div class="topic-content">
+        <p>虽然我的 go 也是只有勉强看懂语法的水平，不过这个比较好改，一下子就改好了。</p>
+
+<p>其实只要把这两个地方的 <code class="highlighter-rouge">r.Header.Get("X-FORWARDED-FOR")</code>改为 <code class="highlighter-rouge">""</code> 就好了。</p>
+
+<p><a href="https://github.com/ego008/goyoubbs/blob/e02243676e05d591a6434d992586884de540303d/controller/article.go#L180">https://github.com/ego008/goyoubbs/blob/e02243676e05d591a6434d992586884de540303d/controller/article.go#L180</a></p>
+
+<p><a href="https://github.com/ego008/goyoubbs/blob/e02243676e05d591a6434d992586884de540303d/controller/article.go#L601">https://github.com/ego008/goyoubbs/blob/e02243676e05d591a6434d992586884de540303d/controller/article.go#L601</a></p>
+
+
+        <p class="mytag float-left">
+            
+            <a href=".././tag/bbs.html">bbs</a>, 
+            
+            <a href=".././tag/程序.html">程序</a>, 
+            
+            <a href=".././tag/ip.html">ip</a>
+            
+        </p>
+
+        <div class="c"></div>
+        <br>
+    </div>
+</div>
+
+<div class="nav-title">
+    共 8 条回复
+</div>
+
+<div class="main-box home-box-list">
+    
+        <a name="1"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/2225.html">
+                    <img src="data:image/jpeg;base64,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" alt="9M135Verona">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>安全性建议：</p>
+
+<p>在多个go文件，及存档的JSON文件中，将struct里面的ClientIp string <code class="highlighter-rouge">json:"clientip"</code>删除； 在html文件里将</p>
+
+<p>clientIP: {{.Aobj.ClientIp}}</p>
+
+<p>删除，以防止其他Admin（如果有的话）看到发帖人IP地址。（刚看到这个已经在forked repo删了）</p>
+
+<p>基于开源的建议：</p>
+
+<p>删除原repo的MIT License有违开源精神；</p>
+
+<p>请在forked repo尽量上传修改后源码。</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/2225.html">9M135Verona</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">1</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="2"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/1.html">
+                    <img src="data:image/jpeg;base64,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" alt="小二">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/9M135Verona">9M135Verona</a> html 文件中的clientIP早已删除了。 <a href="https://github.com/Terminus2049/2049BBS/commit/da144257752811c1fc5e312eccaeebc517218bef">https://github.com/Terminus2049/2049BBS/commit/da144257752811c1fc5e312eccaeebc517218bef</a></p>
+
+<p>LICENSE 已加。</p>
+
+<p>直接删除struct ClientIp string <code class="highlighter-rouge">json:"clientip"</code> 会不会影响历史数据的数据库兼容？</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/1.html">小二</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">2</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="3"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/2225.html">
+                    <img src="data:image/jpeg;base64,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" alt="9M135Verona">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/%E6%A6%B4%E6%A2%BF">榴梿</a> 不排除这个可能，我没花太多时间去读这个源码。 可以不删除历史数据，全部替换成8.8.8.8这样的无意义数据。</p>
+
+<p>我还是比较信任阁下，也没太怕数据泄露的。但是没人保证硬盘不会被偷</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/2225.html">9M135Verona</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">3</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="4"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/1.html">
+                    <img src="data:image/jpeg;base64,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" alt="小二">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/9M135Verona">9M135Verona</a> 因为goyoubbs用了一种比较小众的基于go的微型数据库，我的go又属于刚开始读懂语法的水平，我都不知道怎么操作那个什么神奇的数据库……那我这段时间再研究下……</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/1.html">小二</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">4</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="5"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/1.html">
+                    <img src="data:image/jpeg;base64,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" alt="小二">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/9M135Verona">9M135Verona</a> <a href="https://github.com/boltdb/bolt">https://github.com/boltdb/bolt</a> 这个嵌入式数据库居然已经 Archive 了</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/1.html">小二</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">5</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="6"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/2225.html">
+                    <img src="data:image/jpeg;base64,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" alt="9M135Verona">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/%E6%A6%B4%E6%A2%BF">榴梿</a></p>
+
+<p><a href="https://godoc.org/github.com/ego008/youdb">https://godoc.org/github.com/ego008/youdb</a> 可能有一些能帮助你的信息。</p>
+
+<p>鉴于阁下“不维护主程序”，那我以下以原repo为准： 从article.go#L180到L185（第180到185行）及L601-605的变量名“jb”用法，推测ip以hash保存。 阁下可能需要使用该数据库的Hset()或Hmset()函数。</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/2225.html">9M135Verona</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">6</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="7"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/2225.html">
+                    <img src="data:image/jpeg;base64,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" alt="9M135Verona">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/%E6%A6%B4%E6%A2%BF">榴梿</a> 那2049用的应该是没有使用ego008自创数据库的版本，建议参考<a href="https://godoc.org/github.com/boltdb/bolt">https://godoc.org/github.com/boltdb/bolt</a></p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/2225.html">9M135Verona</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">7</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+        <a name="8"></a>
+
+        
+
+        <div class="commont-item">
+            <div class="commont-avatar">
+                <a href=".././member/1.html">
+                    <img src="data:image/jpeg;base64,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" alt="小二">
+                </a>
+            </div>
+
+            <div class="commont-data">
+
+                <div class="commont-content">
+                    <p>@<a href="/member/9M135Verona">9M135Verona</a> 之前不维护纯粹因为懒……现在不得不维护了。</p>
+
+                </div>
+
+                <div class="commont-data-date">
+                    <div class="float-left">
+                        <a href=".././member/1.html">小二</a>
+                        at 2019-10-18
+                    </div>
+
+                    <div class="float-right">
+                        <span class="commonet-count">8</span>
+                    </div>
+
+                    <div class="c"></div>
+                </div>
+
+                <div class="c"></div>
+            </div>
+
+            <div class="c"></div>
+        </div>
+    
+</div>
+
+            </div>
+            
+            <div class="main-sider">
+
+    <div class="sider-box">
+
+        <div class="sider-box-title">热门主题</div>
+
+        <div class="sider-box-content">
+            <div class="btn">
+                
+                
+                <a href=".././n/15.html">Geek</a>
+                
+                <a href=".././n/6.html">读书</a>
+                
+                <a href=".././n/3.html">技术</a>
+                
+                <a href=".././n/2.html">时政</a>
+                
+                <a href=".././n/5.html">分享发现</a>
+                
+                <a href=".././n/1.html">问答</a>
+                
+                <a href=".././n/7.html">音乐</a>
+                
+                <a href=".././n/12.html">分享创造</a>
+                
+                <a href=".././n/11.html">影视</a>
+                
+                <a href=".././n/10.html">人物</a>
+                
+                <a href=".././n/4.html">水</a>
+                
+                <a href=".././n/9.html">吐槽</a>
+                
+                <a href=".././n/16.html">2049</a>
+                
+                <a href=".././n/8.html">博客</a>
+                
+                <a href=".././n/18.html">梯子</a>
+                
+                <a href=".././n/13.html">站务</a>
+                
+                <a href=".././n/14.html">使用指南</a>
+                
+                <a href=".././n/17.html">公益</a>
+                
+            </div>
+            <div class="c"></div>
+        </div>
+
+    </div>
+
+    <div class="sider-box">
+
+        <div class="sider-box-title">新增主题</div>
+
+        <div class="sider-box-content">
+            <div class="btn">
+                
+                <a href=".././n/1.html">问答</a>
+                
+                <a href=".././n/10.html">人物</a>
+                
+                <a href=".././n/11.html">影视</a>
+                
+                <a href=".././n/12.html">分享创造</a>
+                
+                <a href=".././n/13.html">站务</a>
+                
+                <a href=".././n/14.html">使用指南</a>
+                
+                <a href=".././n/15.html">Geek</a>
+                
+                <a href=".././n/16.html">2049</a>
+                
+                <a href=".././n/17.html">公益</a>
+                
+                <a href=".././n/18.html">梯子</a>
+                
+                <a href=".././n/2.html">时政</a>
+                
+                <a href=".././n/3.html">技术</a>
+                
+                <a href=".././n/4.html">水</a>
+                
+                <a href=".././n/5.html">分享发现</a>
+                
+                <a href=".././n/6.html">读书</a>
+                
+                <a href=".././n/7.html">音乐</a>
+                
+                <a href=".././n/8.html">博客</a>
+                
+                <a href=".././n/9.html">吐槽</a>
+                
+            </div>
+            <div class="c"></div>
+        </div>
+
+    </div>
+</div>
+
+
+            <div class="c"></div>
+
+        </div>
+        <div class="c"></div>
+    </div>
+
+    <div class="footer-wrap">
+
+    <div class="footer">
+        <p>
+            © Copyright <a href=".././index.html">2049BBS</a> •
+            <a rel="nofollow" href=".././feed.xml">Atom Feed</a>
+        </p>
+
+        <p>
+            Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+            and <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+        </p>
+
+        <p>
+            <a href="https://github.com/2049bbs/2049bbs.github.io/" target="_blank">镜像站计划项目主页</a>
+        </p>
+    </div>
+
+    <a style="display: none;" rel="nofollow" href="#top" id="go-to-top">▲</a>
+
+</div>
+
+
+</body>
+
+</html>

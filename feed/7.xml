@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 音乐</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs-backup.github.io/feed/7.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2019-11-19T10:02:54+08:00</updated>
+
+	<id>https://2049bbs-backup.github.io/feed/7.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>闲谈古典音乐（二）</title>
+		<id>https://2049bbs-backup.github.io/t/1800</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1800" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1800.html?env=dev" />
+		<published>2019-11-15T00:00:00+08:00</published>
+		<updated>2019-11-16T00:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;终于周五了。。。听点音乐吧。。。&lt;/p&gt;
+
+&lt;p&gt;书接上文：&lt;a href=&quot;https://2049bbs.xyz/t/1736&quot;&gt;https://2049bbs.xyz/t/1736&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;中世纪及文艺复兴：476-1600&lt;/p&gt;
+
+&lt;p&gt;一拍脑袋这一时期的关键词有：黑死病，巴黎圣母院，大卫像，莎士比亚，复调音乐被发明（意思是两条以上独立旋律达成的和谐，大略的发...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>闲谈古典音乐（一）</title>
+		<id>https://2049bbs-backup.github.io/t/1736</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1736" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1736.html?env=dev" />
+		<published>2019-11-11T00:00:00+08:00</published>
+		<updated>2019-11-12T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;好像也没有贡献什么干货，因此应站长之邀，稍微多说点，发一贴普及推荐一下古典音乐。本人大学以前主要也是听摇滚爵士，然而大一没事修了一门古典音乐鉴赏课以平衡无聊的高数工程制图后，就无法自拔了。。。&lt;/p&gt;
+
+&lt;p&gt;古典音乐我觉得也就是西方中世纪起到20世纪留下来的经典音乐，甚至在古典音乐后期也能找到爵士，重金属的影子。比如瓦格纳，阿诺德·勋伯格等人对非和谐“和弦”的探索对之后的前卫爵士甚至...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>柴可夫斯基第四交响曲</title>
+		<id>https://2049bbs-backup.github.io/t/1642</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1642" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1642.html?env=dev" />
+		<published>2019-11-01T00:00:00+08:00</published>
+		<updated>2019-11-04T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;这两天听到了老柴悲怆三部曲的第一部，写于痛苦的婚姻和沙皇时期的政治动荡的背景下，并以此曲献给结识一年从未谋面的红颜知己（事实上日后的10多年中都未谋面），阅读背景相关的若干书信集的时候看到了这么一小段：&lt;/p&gt;
+
+&lt;p&gt;“天气很坏，有雾，无涯的雨，潮湿。一举步就会碰到哥萨克骑兵（沙皇用来维持统治的武装力量），好像我们是被围似的。这都是恐怖的时代，可怕的时代。一方面，一个绝对惶惶不可终日...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>分享三个有意思的音频节目</title>
+		<id>https://2049bbs-backup.github.io/t/1459</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1459" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1459.html?env=dev" />
+		<published>2019-10-03T14:13:00+08:00</published>
+		<updated>2019-10-03T20:51:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;软件那些事儿 &lt;a href=&quot;https://podcasts.apple.com/us/podcast/%E8%BD%AF%E4%BB%B6%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1147186605&quot;&gt;https://podcasts.apple.com/us/podcast/%E8%BD%AF%E4%BB%B6%E9%82%A3%E4%BA...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>51Ape.Com怎样?</title>
+		<id>https://2049bbs-backup.github.io/t/1382</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1382" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1382.html?env=dev" />
+		<published>2019-08-15T00:32:00+08:00</published>
+		<updated>2019-08-15T19:46:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>Beyond - 抗戰二十年</title>
+		<id>https://2049bbs-backup.github.io/t/1275</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1275" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1275.html?env=dev" />
+		<published>2019-06-13T13:22:00+08:00</published>
+		<updated>2019-06-13T13:22:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zx5_9YKHwSg&quot;&gt;https://www.youtube.com/watch?v=zx5_9YKHwSg&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>如今这个广场是我的坟墓，这个歌声将来是你的挽歌</title>
+		<id>https://2049bbs-backup.github.io/t/1241</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1241" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1241.html?env=dev" />
+		<published>2019-06-03T12:30:00+08:00</published>
+		<updated>2019-06-03T19:20:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://telegra.ph/file/d14420b52756be4e2a8f7.png&quot;&gt;https://telegra.ph/file/d14420b52756be4e2a8f7.png&lt;/a&gt; 李志被禁原唱《廣場》 - YouTube &lt;a href=&quot;https://www.youtube.com/watch?v=JdE4Ehte4uU&quot;&gt;https...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>【纪念六四】如此生活三十年，直到大厦崩塌</title>
+		<id>https://2049bbs-backup.github.io/t/1240</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/1240" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/1240.html?env=dev" />
+		<published>2019-06-03T12:24:00+08:00</published>
+		<updated>2019-06-03T12:24:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://telegra.ph/file/d3ef101bcdb9d83bbc93c.png&quot;&gt;https://telegra.ph/file/d3ef101bcdb9d83bbc93c.png&lt;/a&gt; 万能青年旅店在这颗行星所有的酒馆- YouTube &lt;a href=&quot;https://www.youtube.com/watch?v=gR5rsr4morY&quot;&gt;...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>纪念六四的歌曲，欢迎补充</title>
+		<id>https://2049bbs-backup.github.io/t/915</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/915" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/915.html?env=dev" />
+		<published>2019-01-19T12:34:00+08:00</published>
+		<updated>2019-01-26T20:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;艺术必须干涉政治，直到政治不再干涉艺术为止。﻿&lt;/p&gt;
+
+&lt;p&gt;Beyond-长城 &lt;a href=&quot;https://www.youtube.com/watch?v=kZid8a697Rg&quot;&gt;https://www.youtube.com/watch?v=kZid8a697Rg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;部分歌词：一个老去的国度，多少消失的真相&lt;/p&gt;
+
+&lt;p&gt;李志-广场 &lt;a href...
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>如何评价汪峰的音乐《雨天的回忆》？</title>
+		<id>https://2049bbs-backup.github.io/t/888</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/888" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/888.html?env=dev" />
+		<published>2019-01-05T22:49:00+08:00</published>
+		<updated>2019-01-07T20:58:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;专辑《生无所求》。&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>分享音乐剧：芝加哥（从《天朝渣男图鉴》找过来的）</title>
+		<id>https://2049bbs-backup.github.io/t/865</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/865" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/865.html?env=dev" />
+		<published>2018-12-26T13:56:00+08:00</published>
+		<updated>2018-12-26T13:56:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mV5JDd_XbSk&quot;&gt;https://www.youtube.com/watch?v=mV5JDd_XbSk&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>Radio Garden （电台花园）</title>
+		<id>https://2049bbs-backup.github.io/t/591</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/591" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/591.html?env=dev" />
+		<published>2018-06-22T15:54:00+08:00</published>
+		<updated>2018-06-22T17:58:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;http://radio.garden/&quot;&gt;http://radio.garden/&lt;/a&gt; 世界地图上每一个绿点，就代表一个当地的电台。光标移上去，就可以听到该电台的现场直播。（from 阮一峰博客）&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>《生活在地下》太好听了</title>
+		<id>https://2049bbs-backup.github.io/t/502</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/502" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/502.html?env=dev" />
+		<published>2018-05-12T11:34:00+08:00</published>
+		<updated>2018-05-12T22:58:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://music.163.com/#/song?id=25864380&quot;&gt;https://music.163.com/#/song?id=25864380&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;唱出来的好听，没唱出来的更好听。&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>分享一首歌《最后一枪》-- 李志</title>
+		<id>https://2049bbs-backup.github.io/t/483</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/483" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/483.html?env=dev" />
+		<published>2018-05-07T14:26:00+08:00</published>
+		<updated>2018-05-07T14:43:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;只找到了现场版(MP4)，我给放到临时文件存储服务上了。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tmp.link/f/5aeff0ce6d39f&quot;&gt;http://tmp.link/f/5aeff0ce6d39f&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>山海 - 草东没有派对</title>
+		<id>https://2049bbs-backup.github.io/t/386</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/386" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/386.html?env=dev" />
+		<published>2018-03-31T15:25:00+08:00</published>
+		<updated>2018-05-07T00:56:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;分享一个台湾的摇滚乐队 &lt;a href=&quot;https://i.y.qq.com/v8/playsong.html?songid=106230681&quot;&gt;https://i.y.qq.com/v8/playsong.html?songid=106230681&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>民谣歌手</title>
+		<id>https://2049bbs-backup.github.io/t/388</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/388" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/388.html?env=dev" />
+		<published>2018-04-01T20:44:00+08:00</published>
+		<updated>2018-04-02T14:26:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;最近听了好多毛不易的歌，觉得这个人太有才了。&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>爱尔兰摇滚乐队小红莓(Cranberries)主唱 Dolores O'Riordan 去世</title>
+		<id>https://2049bbs-backup.github.io/t/57</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/57" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/57.html?env=dev" />
+		<published>2018-01-16T09:07:00+08:00</published>
+		<updated>2018-03-19T13:47:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+	<entry>
+		<title>无聊，分享一首歌</title>
+		<id>https://2049bbs-backup.github.io/t/97</id>
+		<link type="text/html" href="https://2049bbs-backup.github.io/t/97" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs-backup/2049bbs-backup.github.io/gh-pages/t/97.html?env=dev" />
+		<published>2018-01-30T21:23:00+08:00</published>
+		<updated>2018-01-30T21:23:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://music.163.com/m/song?id=25864380&quot;&gt;http://music.163.com/m/song?id=25864380&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="音乐" />
+    </entry>
+    
+
+</feed>
